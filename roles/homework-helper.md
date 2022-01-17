@@ -21,9 +21,15 @@ There is a [**video here**](https://www.youtube.com/watch?v=XYlgh9hSWtw) **** th
 
 To keep track of the homework PR's and their status (mentioned above) we have made a tool that makes this process easier: [**https://hyf-homework.herokuapp.com/**](https://hyf-homework.herokuapp.com)****
 
-Here you can select the class number you are responsible for (**fx class 19**) and then choose the module (**fx nodejs**). Then you have an overview of all the students that still need feedback for a specific module. You can then click on their PR and give feedback there. The website updates the student homework status by itself.&#x20;
+Here you can select the class number you are responsible for (**fx class 19**) and then choose the module (**fx nodejs**). Then you have an overview of all the students that still need feedback for a specific module. You can then click on their PR and give feedback there. The website updates the student homework status by itself. It's important that you communicate with the other mentors which PR's you will be working on, so we avoid overlap.
 
-Every week our staff also tends to post an overview of all homework PR's that need reviewing in the respective Slack channel for mentors in the class (fx mentors-class19). Use this space to communicate with the rest of the teacher team and staff about anything that might be unclear.
+Every week our staff also tends to post an overview of all homework PR's that need reviewing in the respective Slack channel for mentors in the class (fx mentors-class19). Use this space to communicate with the rest of the teacher team and staff about anything that might be unclear.\
+\
+Our mentor Estefania recorded a nice video showing her process:&#x20;
+
+{% embed url="https://www.loom.com/share/f2f5b82a16344396b65945f10e99539f?sharedAppSource=personal_library" %}
+Estefania walking you through how to review homework :)
+{% endembed %}
 
 ## Communication with HYF or Lead Teacher
 
