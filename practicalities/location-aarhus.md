@@ -6,7 +6,7 @@ description: Where to find us in Aarhus :)
 
 
 
-We host our onsite classes on **Sundays** between **12:00 - 16:00** at [Novicell](https://www.novicell.dk) who were so kind to provide their location for our workshops. The address is **Søren Nymarks Vej 6 8270 Højbjerg.**&#x20;
+We host our onsite classes on **Sundays** between **12:00 - 16:00** at [Novicell](https://www.novicell.dk/) who were so kind to provide their location for our workshops. The address is **Søren Nymarks Vej 6 8270 Højbjerg.**&#x20;
 
 There is plenty of parking available, as well as Bus 17 & 4A can take you there in about 25 minutes from Aarhus Central Station.
 

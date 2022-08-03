@@ -19,7 +19,7 @@ There is a [**video here**](https://www.youtube.com/watch?v=XYlgh9hSWtw) **** th
 
 ## How to find the right homework PR's
 
-To keep track of the homework PR's and their status (mentioned above) we have made a tool that makes this process easier: [**https://hyf-homework.herokuapp.com/**](https://hyf-homework.herokuapp.com)****
+To keep track of the homework PR's and their status (mentioned above) we have made a tool that makes this process easier: [**https://hyf-homework.herokuapp.com/**](https://hyf-homework.herokuapp.com/)****
 
 Here you can select the class number you are responsible for (**fx class 19**) and then choose the module (**fx nodejs**). Then you have an overview of all the students that still need feedback for a specific module. You can then click on their PR and give feedback there. The website updates the student homework status by itself. It's important that you communicate with the other mentors which PR's you will be working on, so we avoid overlap.
 
