@@ -2,7 +2,7 @@
 description: Where to find us in Copenhagen :)
 ---
 
-# Location: Copenhagen
+# 📍 Location: Copenhagen
 
 We host our onsite classes on **Sundays** between **12:00 - 16:00** at a co-working space on Holmen called [Talentgarden Rainmaking](https://talentgarden.org/en/coworking/denmark/copenhagen/). The address is **Danneskjold Samsø's Allé 41**. We don't always put out signs outside or inside the building, so you can find us as described on the images below:\
 

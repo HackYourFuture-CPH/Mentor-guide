@@ -1,4 +1,8 @@
-# Homework Mentor
+---
+description: 'TL;DR: Reviewing students'' pull requests on GitHub'
+---
+
+# Homework Reviewer
 
 All our students hand in homework every week by using pull requests on GitHub. In order for the students to improve as much as possible **we aim to review every pull request thoroughly**. This review process imitates the real world and can really help the students to improve their skills significantly. 🤓
 
@@ -41,7 +45,7 @@ Give the review on the PR. You can see how to give feedback on a PR using Github
 
 [**Here is an example**](https://github.com/sofiiadidovych/hyf-homework/pull/9) of some review given by mentor RassiBassi (Rasmus)
 
-![](<../.gitbook/assets/Screenshot 2021-05-24 at 16.11.30.png>)
+![](<../../.gitbook/assets/Screenshot 2021-05-24 at 16.11.30.png>)
 
 Try to keep the review at maximum 3 points the students can work on. There is no need to overdo it! Remember that you are responsible for up to 16 homeworks this week. Therefore try and coordinate with your teacher-team and manage your available time with the homeworks.
 

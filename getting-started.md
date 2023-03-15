@@ -1,10 +1,10 @@
-# Getting started
+# 🎯 Getting started
 
 First, please fill in your preferences [**here**](https://forms.gle/cefozDVktRJ5nAzGA) to indicate what skills you feel confident to share**.** :brain::raised\_hands:&#x20;
 
 ## Most crucial learning goals
 
-We want our students to be able to work in a tech company in Denmark. Technical skills are important, but just as much is an understanding of what the job of a web-developer looks like. Collaboration, teamwork, an inquisitive mindset and **asking tons of questions** are crucial "soft" learnings that we want to encourage _over and over_. Relating what you teach in class to your daily tasks at work is also _always_ super useful.
+We want our students to be able to work in a tech company in Denmark. Technical skills are important, but just as much is an understanding of what the job of a web-developer looks like. Collaboration, teamwork, an inquisitive mindset and **asking tons of questions** are crucial "interpersonal skills" that we want to encourage _over and over_. Relating what you explain in class to your daily tasks at work is also _always_ super useful.
 
 ## Slack
 
@@ -12,12 +12,12 @@ Our Slack workplace is the main communication tool we use. It has channels for e
 
 ## FAQ
 
-* Q: **How much time does teaching require per week?**\
-  A: It depends on the role. But aim at about 6-8 hours per week.
+* Q: **How much time does mentoring require per week?**\
+  A: It depends on the role. But aim at about -10 hours per week.
 * Q: **Do I need to be a working professional to teach?**\
-  A: No, you don't need to be a working professional, but it is a big plus. We want our students to learn from people who work with the frameworks we teach on a daily basis and know the challenges of the market.
+  A: No, you don't need to be a working professional, but it is a big plus. We want our students to learn from people who work with the technologies in our curriculum on a daily basis and know the challenges of the market.
 * Q: **Will I be teaching all by myself?**\
-  A: No, teaching always happens in pairs. This allows for less pressure on the individual, split responsibility and a broader perspective for our students.
+  A: No, teaching always happens in small groups. This allows for less pressure on the individual, split responsibility and a broader perspective for our students.
 * Q: **Do I have to teach exactly like it says in the repo?**\
   A: No, you can basically teach however you best see fit. We have learning goals we want to complete in each module and that the next module builds on. The students will work on the learning goals in the homework, therefore is very important that you teach those. You also don't need to reinvent the wheel about how to teach (but you can if you want to), all the material (code examples, exercises and documentation) is there in the lesson-plan if you prefer to follow existing instructions.
 * Q: **When do the classes take place?**\
@@ -45,10 +45,8 @@ From time to time we organize workshops or Master Classes for our alumni in whic
 
 ## Roles
 
-All new volunteers at HackYourFuture will start their Volunteering Journey as a **Homework Helper**. You then gradually move through the different volunteering roles which will give you the confidence and expertise to be a **Lead Teacher**.
+We distinguish between [Code Mentors](roles/code-mentors/) & [Career Mentors](roles/career-mentors/), but you can of course also be both. Code Mentors are usually professional developers, whereas Career Mentor roles sometimes only require expertise related to effective job-searching & interviewing for tech jobs.
 
-* [**Homework Helper**](roles/homework-helper.md)****
-* ****[**Teacher Assistant**](roles/teaching-assistant.md)****
-* ****[**Lead Teacher**](roles/lead-teacher.md)****
+## The Volunteer Journey
 
-![Volunteering Journey](.gitbook/assets/volunteering-journey.png)
+<figure><img src=".gitbook/assets/Volunteer Journey Image.png" alt=""><figcaption><p>This is how new volunteers typically progress through volunteer roles at HYF.</p></figcaption></figure>

@@ -2,7 +2,7 @@
 description: Where to find us in Aarhus :)
 ---
 
-# Location: Aarhus
+# 📍 Location: Aarhus
 
 
 
