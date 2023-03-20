@@ -10,7 +10,7 @@ description: >-
 
 Through this interview training we want to give the students a realistic impression of an interview situation that uses a code assignment as the point of departure for the conversation.\
 \
-[**It's important not to sugar-coat your feedback**. For some students, this will be their very first interview experience before they encounter real-world interview situations where they will be evaluated on the same terms as all other job applicants. Therefore, a realistic assessment of their own performance will be most useful for them.](#user-content-fn-1)[^1]
+**It's important not to sugar-coat your feedback**. For some students, this will be their very first interview experience before they encounter real-world interview situations where they will be evaluated on the same terms as all other job applicants. Therefore, a realistic assessment of their own performance will be most useful for&#x20;
 
 ## Process
 
@@ -86,5 +86,3 @@ Contact a HYF Staff member to get connected to 2 job-seeking HYF students who ar
 The students should spend more time on improving the project so it can be a good portfolio project, and share it in the relevant channels on Slack to get feedback.
 
 As an Interview Training Mentor, our staff will appreciate it if you provide feedback on how the interviews went and what feedback you provided to the students.
-
-[^1]: 
