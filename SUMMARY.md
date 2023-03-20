@@ -12,8 +12,9 @@
   * [Flexible tasks](roles/code-mentors/flexible-tasks.md)
 * [📈 Career Mentors](roles/career-mentors/README.md)
   * [Jobseeker Toolkit](roles/career-mentors/jobseeker-toolkit.md)
-  * [Mock-HR Interview](roles/career-mentors/mock-hr-interview.md)
-  * [Mock-Technical Interview](roles/career-mentors/mock-technical-interview.md)
+  * [Interview Training](roles/career-mentors/interview-training/README.md)
+    * [Mock-HR Interview](roles/career-mentors/interview-training/mock-hr-interview.md)
+    * [Mock-Technical Interview](roles/career-mentors/interview-training/mock-technical-interview.md)
   * [1:1 Career Coach](roles/career-mentors/1-1-career-coach.md)
 
 ## Practicalities
