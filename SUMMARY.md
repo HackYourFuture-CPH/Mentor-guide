@@ -15,6 +15,7 @@
   * [Interview Training](roles/career-mentors/interview-training/README.md)
     * [Mock-HR Interview](roles/career-mentors/interview-training/mock-hr-interview.md)
     * [Mock-Technical Interview](roles/career-mentors/interview-training/mock-technical-interview.md)
+    * [Live-coding Interview](roles/career-mentors/interview-training/live-coding-interview.md)
   * [1:1 Career Coach](roles/career-mentors/1-1-career-coach.md)
 
 ## Practicalities

@@ -1,7 +1,7 @@
 ---
 description: >-
   These mock interviews serve to prepare the students & graduates for a
-  real.-world technical interview, based on a code assignment.
+  real.-world technical interview, based on a take-home assignment.
 ---
 
 # Mock-Technical Interview
