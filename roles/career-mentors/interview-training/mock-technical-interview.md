@@ -10,15 +10,15 @@ description: >-
 
 Through this interview training we want to give the students a realistic impression of an interview situation that uses a code assignment as the point of departure for the conversation.\
 \
-**It's important not to sugar-coat your feedback**. For some students, this will be their very first interview experience before they encounter real-world interview situations where they will be evaluated on the same terms as all other job applicants. Therefore, a realistic assessment of their own performance will be most useful for&#x20;
+**It's important not to sugar-coat your feedback**. For some students, this will be their very first interview experience before they encounter real-world interview situations where they will be evaluated on the same terms as all other job applicants. Therefore, a realistic assessment of their own performance will be most useful for their learning & success.
 
 ## Process
 
 The following instructions are designed for both an online meeting, or an in-person meeting.\
 \
-We aim to involve **3 people** in each interview situation. **2 interviewers** and **1 interviewee**. For the sake of efficiency, we will outline the process below for 2 HYF students and 1 [Career Mentor](../). The idea is that the HYF students will be able to understand the perspective from "both sides of the table", adding to their overall experience gained.
+We aim to involve **3 people** in each interview situation. **2 HYF students** and **1** [**Career Mentor**](../) will be paired up and the two HYF students will rotate through the roles of both interviewee & interviewer. The idea is that the HYF students will be able to understand the perspective from "both sides of the table", adding to their overall experience gained.
 
-As an Interview Trainer, you will bring your real-world experience into the process and assume the role of a hiring Tech Lead. Run the interview as close to how you would if you were hiring at your own company.
+As an Interview Trainer, you will bring your real-world experience into the process and assume the role of a Hiring Manager or Tech Lead. **Run the interview as close to how you would if you were hiring at your own company.**
 
 Contact a HYF Staff member to get connected to 2 job-seeking HYF students who are eligible for this type of training. We will provide you with their contact info on Slack.
 
