@@ -26,7 +26,7 @@ The way you teach the class is up to you. There is a [**lesson plan**](https://g
 
 The class can be run in two different ways:
 
-1. **Flipped classroom**. Here the students watch the class teachings before class. That means that the class can be used for clearing up things, questions, exercises and homework. This approach is about maximizing active learning which has [**been found to increase student learning**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/)****
+1. **Flipped classroom**. Here the students watch the class teachings before class. That means that the class can be used for clearing up things, questions, exercises and homework. This approach is about maximizing active learning which has [**been found to increase student learning**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/)
 2. **Normal approach**. The students come to class and are taught the topics of the week. When the teaching is over the students have time for exercises.
 
 It's up to you what approach you want to use. But we would like to encourage using flipped classroom, as most students report prefering this way of learning.
@@ -39,8 +39,8 @@ The same goes for **experiential learning** (hands-on work) and **peer-assisted 
 
 We run the classes online in a tool called _BigBlueButton_. Signup here: [**bbb.hackyourfuture.dk**](https://bbb.hackyourfuture.dk/). We have made two videos showing how BigBlueButton works:
 
-1. [**Signing up for and using BigBlueButton**](https://www.youtube.com/watch?v=1a7mosbd02c)****
-2. ****[**Creating breakout rooms in BigBlueButton**](https://www.youtube.com/watch?v=lljwGimOBYQ)****
+1. [**Signing up for and using BigBlueButton**](https://www.youtube.com/watch?v=1a7mosbd02c)
+2. [**Creating breakout rooms in BigBlueButton**](https://www.youtube.com/watch?v=lljwGimOBYQ)
 
 Here are some things we learned from having all classes online:
 
@@ -54,7 +54,7 @@ In BigBlueButton remember to record the session and post the recorded video on t
 Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interrupts, etc.
 
 **Homework status**\
-Get an overview of how the class is doing. Use the [**Homework Checker tool**](https://hyf-homework-assesment.herokuapp.com/) **** to get a bit of an overview of how the class is doing, or scroll through the class' Slack channel. With an overview you can teach more targeted towards clearing out misconceptions in the class.
+Get an overview of how the class is doing. Use the [**Homework Checker tool**](https://hyf-homework-assesment.herokuapp.com/) to get a bit of an overview of how the class is doing, or scroll through the class' Slack channel. With an overview you can teach more targeted towards clearing out misconceptions in the class.
 
 **Breaks**\
 We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise, make sure to remember to take **short breaks about every 45 minutes** as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
@@ -78,5 +78,5 @@ Peer instruction is an interactive teaching method in which students discuss und
 
 ### Useful Links
 
-* ****[**The teacher curriculum**](https://hyfbe.gitbook.io/teacher-curriculum)****
-* ****[**Super important video about active learning**](https://www.youtube.com/watch?v=Z9orbxoRofI)****
+* [**The teacher curriculum**](https://hyfbe.gitbook.io/teacher-curriculum)
+* [**Super important video about active learning**](https://www.youtube.com/watch?v=Z9orbxoRofI)

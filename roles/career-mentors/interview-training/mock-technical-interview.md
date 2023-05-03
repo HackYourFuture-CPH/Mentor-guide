@@ -12,6 +12,8 @@ Through this interview training we want to give the students a realistic impress
 \
 **It's important not to sugar-coat your feedback**. For some students, this will be their very first interview experience before they encounter real-world interview situations where they will be evaluated on the same terms as all other job applicants. Therefore, a realistic assessment of their own performance will be most useful for their learning & success.
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-03 at 09.12.04.png" alt=""><figcaption><p>Career mentors performing "Mock technical interviews" with HYF students. (April 2023)</p></figcaption></figure>
+
 ## Process
 
 The following instructions are designed for both an online meeting, or an in-person meeting.\

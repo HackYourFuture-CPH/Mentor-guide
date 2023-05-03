@@ -16,7 +16,7 @@ Your responsibility is to help/assist the Lead Teacher so they are not overloade
 
 ### Classroom Rules
 
-1. ​Follow the [**Code of Conduct**](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)****
+1. ​Follow the [**Code of Conduct**](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)
    * You should report any violations to the staff
 2. Don't touch the student's keyboard.
    * Unless you're 100% certain that whatever you're doing is outside of the students required understanding
@@ -37,4 +37,4 @@ As an assistant teacher, your job is not to understand **what** the student does
 
 _Homework in mind_
 
-When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your [**Lead Teacher.**](https://mentor.hackyourfuture.dk/roles/lead-teacher)****
+When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your [**Lead Teacher.**](https://mentor.hackyourfuture.dk/roles/lead-teacher)

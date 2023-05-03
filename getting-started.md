@@ -25,7 +25,7 @@ Our Slack workplace is the main communication tool we use. It has channels for e
 
 ## So how is the curriculum structured?
 
-Here is an overview of the [**curriculum**](https://github.com/HackYourFuture-CPH/curriculum)****
+Here is an overview of the [**curriculum**](https://github.com/HackYourFuture-CPH/curriculum)
 
 ![](.gitbook/assets/curriculum.png)
 
