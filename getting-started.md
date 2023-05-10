@@ -45,7 +45,7 @@ From time to time we organize workshops or Master Classes for our alumni in whic
 
 ## Roles
 
-We distinguish between [Code Mentors](roles/code-mentors/) & [Career Mentors](roles/career-mentors/), but you can of course also be both. Code Mentors are usually professional developers, whereas Career Mentor roles sometimes only require expertise related to effective job-searching & interviewing for tech jobs.
+We distinguish between [Code Mentors](roles/technical-mentors/) & [Career Mentors](roles/career-mentors/), but you can of course also be both. Code Mentors are usually professional developers, whereas Career Mentor roles sometimes only require expertise related to effective job-searching & interviewing for tech jobs.
 
 ## The Volunteer Journey
 

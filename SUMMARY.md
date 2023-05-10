@@ -5,11 +5,11 @@
 
 ## Roles
 
-* [💻 Code Mentors](roles/code-mentors/README.md)
-  * [Homework Reviewer](roles/code-mentors/homework-reviewer.md)
-  * [Teaching Assistant](roles/code-mentors/teaching-assistant.md)
-  * [Lead Teacher](roles/code-mentors/lead-teacher.md)
-  * [Flexible tasks](roles/code-mentors/flexible-tasks.md)
+* [💻 Technical Mentors](roles/technical-mentors/README.md)
+  * [Homework Reviewer](roles/technical-mentors/homework-reviewer.md)
+  * [Teaching Assistant](roles/technical-mentors/teaching-assistant.md)
+  * [Lead Teacher](roles/technical-mentors/lead-teacher.md)
+  * [Flexible tasks](roles/technical-mentors/flexible-tasks.md)
 * [📈 Career Mentors](roles/career-mentors/README.md)
   * [Jobseeker Toolkit](roles/career-mentors/jobseeker-toolkit.md)
   * [Interview Training](roles/career-mentors/interview-training/README.md)

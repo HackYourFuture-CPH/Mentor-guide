@@ -4,9 +4,9 @@ description: >-
   professional level.
 ---
 
-# 💻 Code Mentors
+# 💻 Technical Mentors
 
-All new Code Mentors at HackYourFuture will start their Volunteering Journey as a **Homework Reviewers**. You then gradually move through the different volunteering roles which will give you the confidence and expertise to be a **Lead Teacher**.
+All new Technical Mentors at HackYourFuture will start their Volunteering Journey as a **Homework Reviewers**. You then gradually move through the different volunteering roles which will give you the confidence and expertise to be a **Lead Teacher**.
 
 * [**Homework Helper**](homework-reviewer.md)
 * [**Teacher Assistant**](teaching-assistant.md)
