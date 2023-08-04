@@ -26,7 +26,8 @@ Contact a HYF Staff member to get connected to 2 job-seeking HYF students who ar
 
 ## Let's get started
 
-1. Send the challenge over to students via Slack or email and make a fixed plan on when to have the interview day and prep the students with the following instruction:
+1. Check with HYF Staff about the tech challenge that should be used. If you are working individually with a specific student, you can also pick your own challenge. We suggest [www.codementor.io](https://www.codementor.io) for inspiration.
+2. Send the challenge over to students via Slack or email and make a fixed plan on when to have the interview day and then prep the students with the following instruction:
 
 {% hint style="info" %}
 💡 We will be doing a mock technical interview where you are given a technical challenge that you can do within \[a given timeframe depending on the assignment size]. Before the interview, you should send back the Github repo link _at least_ \[X days] before the scheduled interview so it can be reviewed by the interviewers. During the interview, one of you will be the interviewee and the rest of us will be the interviewers. You will be asked to do a small demo of the code you wrote and then we will start the interview questions.
@@ -40,7 +41,7 @@ Contact a HYF Staff member to get connected to 2 job-seeking HYF students who ar
 
 ## Interview
 
-1. The host (usually a mentor) will explain the process and set the agenda for the call
+1. The host (usually a mentor) will explain the process and set the agenda for the in-person meeting or call
 2. The first interview will start with a small introduction round just like a real interview
 3. The interviewee will be asked to give a short demo of their submitted work
 4. The interviewers will start asking questions (both general questions and specific questions to the work)

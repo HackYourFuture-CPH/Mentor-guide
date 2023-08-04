@@ -7,4 +7,6 @@ description: >-
 
 # Live-coding Interview
 
-Content coming in April/May
+This type of training is intended for students who have already succeeded at landing interviews, or even internships. To prepare them for the challenging situation of encountering a live-coding interview, we offer this short training.\
+\
+Content coming soon.
