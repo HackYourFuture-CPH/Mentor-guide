@@ -2,6 +2,8 @@
 
 The _Lead Teacher_’s role is the role of the director. You are tasked with taking control of the flow of the class and making sure it proceeds in a way that is beneficial not only to students but to volunteers as well. In the classroom, people will look to you as a figure of authority and leadership. As a _Lead Teacher_, you are ultimately responsible for what is taught in the class, the pace and the involvement of our other volunteers. It is an important and impactful role where you can have a huge impact on our student’s education.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-31 at 08.53.38.png" alt=""><figcaption><p>The Lead Teacher has the overarching responsibility for the module.</p></figcaption></figure>
+
 ## Responsibility
 
 Your responsibility as a Lead Teacher is to teach the learning goals for each week and make sure that all students can keep up with the class.
@@ -35,23 +37,11 @@ The same goes for **experiential learning** (hands-on work) and **peer-assisted 
 
 ## Practicalities
 
-**Online classes**
-
-We run the classes online in a tool called _BigBlueButton_. Signup here: [**bbb.hackyourfuture.dk**](https://bbb.hackyourfuture.dk/). We have made two videos showing how BigBlueButton works:
-
-1. [**Signing up for and using BigBlueButton**](https://www.youtube.com/watch?v=1a7mosbd02c)
-2. [**Creating breakout rooms in BigBlueButton**](https://www.youtube.com/watch?v=lljwGimOBYQ)
-
-Here are some things we learned from having all classes online:
-
-* When you do exercises, make small groups of 3 people in breakout rooms
-* In BBB you can raise your hand. Use that to figure out if people are following or if people have questions
-
 **Recording of sessions.**\
-In BigBlueButton remember to record the session and post the recorded video on the class' Slack channel.
+We use Zoom for online classes & recording. A staff member can either provide you login info to a HYF-owned Zoom account, or you can also use your own. In Zoom, remember to record the session and post the recorded video on the class' Slack channel. Optionally, when using HYF's Zoom accounts, record to the cloud and a HYF staff will share the recording
 
 **Talk with your teacher assistant**\
-Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interrupts, etc.
+Before class try and talk to your teacher assistant(s) about how you want to work together. Should the teacher assistant fx. help introduce some topics, is it okay if the teacher assistant interrupts, etc.
 
 **Homework status**\
 Get an overview of how the class is doing. Use the [**Homework Checker tool**](https://hyf-homework-assesment.herokuapp.com/) to get a bit of an overview of how the class is doing, or scroll through the class' Slack channel. With an overview you can teach more targeted towards clearing out misconceptions in the class.
@@ -61,6 +51,16 @@ We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise,
 
 **Don't forget about the fun**\
 If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. A good resource for fun exercises is the [**teaching\_tips\_and\_tricks**](https://github.com/HackYourFuture/teaching\_tips\_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
+
+**Online classes**
+
+We try to run all classes in person, but circumstances can sometimes require that we do the workshop online (epidemics, location issues, force majeure).\
+In any case, we always record the workshops online with Zoom. Always make sure to post the link into the class channel, so people following remotely (due to e.g. illness) can join live.
+
+Here are some things we learned from having all classes online during **Covid**:
+
+* When you do exercises, make small groups of 3 people in breakout rooms
+* In Zoom you can raise your hand. Use that to figure out if people are following or if people have questions
 
 ### Suggested Teaching Techniques
 

@@ -6,6 +6,10 @@ Another important part is helping with reviewing homework.
 
 Remember to talk to the Lead Teacher about how you should be assisting the class. Should you fx. help teach some topics, is it okay if you interrupt the Lead Teacher, etc.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-31 at 08.53.02.png" alt=""><figcaption></figcaption></figure>
+
 ## Responsibility
 
 Your responsibility is to help/assist the Lead Teacher so they are not overloaded with work.
