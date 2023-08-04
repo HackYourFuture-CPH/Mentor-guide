@@ -4,7 +4,7 @@ description: Tasks that don't require multi-week commitment
 
 # Flexible tasks
 
-There's always _something_ to do, but not always do availability and roles overlap perfectly for our volunteers, so here's an overview of what you can do when your schedule might not allow you to immediately commit to a 3-week module.
+There's _always_ something to do at HYF, but not always do availability and roles overlap perfectly for our volunteers, so here's an overview of what you can do when your schedule might not allow you to immediately commit to a 3-week module.
 
 ### #need-a-review
 
@@ -16,13 +16,19 @@ We estimate the time commitment to be between **30-60 minutes** here, as you wou
 
 Once a homework submission has been posted in **#need-a-review** any volunteer can pick it up, so when you start reviewing the code, leave an emoji like 👍 so others know that you started working on it. Once you are finished, mark it with ✅.
 
+### Jobs-jobs-jobs
+
+If you stumble upon a suitable job posting for a role that could fit the skills of the HYF graduates - please post it in the **#jobs-jobs-jobs** channel or in the private **#alumni** channel, so job-seeking HYF students can see the opportunity and apply.
+
+<figure><img src="../../.gitbook/assets/jobs-jobs-jobs.png" alt=""><figcaption><p>An example of a helpful post. An unconventional employer and a few lines explaining why it's a good opportunity.</p></figcaption></figure>
+
+Regularly posting job ads helps to calibrate the students' ability to select and apply for the right roles. In a perfect world, you would also offer to help those people who choose to apply with fine-tuning their applications to fit the company/role.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-04 at 13.57.19.png" alt=""><figcaption><p>Another example of a simple post with some additional information.</p></figcaption></figure>
+
 ### Career Mentoring
 
 We group different volunteering roles that have to do with preparing our graduates for the job-market & landing their first job under this category. You can read more about all the different roles [here](../career-mentors/).\
 \
 A quick and simple way to help out is to check the **#jobapplication-feedback-support** channel and give feedback on the CV's posted in there.&#x20;
-
-Similarly, posting relevant job ads into our **#jobs-jobs-jobs** channel is a small, but really useful way to support our students and graduates in finding quality jobs.
-
-<figure><img src="../../.gitbook/assets/jobs-jobs-jobs.png" alt=""><figcaption><p>An example of a helpful post. An unconventional employer and a few lines explaining why it's a good opportunity.</p></figcaption></figure>
 
