@@ -16,6 +16,4 @@ Below you can read up on the advice that we give to all graduates, so everyone s
 * [Linkedin Profile](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourlinkedin.md)
 * [GitHub profile](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourgithub.md)
 
-
-
-Further content coming soon.
+<figure><img src="../../.gitbook/assets/Hack-Your-Future-LOW-5518(1).jpg" alt=""><figcaption></figcaption></figure>
