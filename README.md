@@ -1,5 +1,5 @@
 > [!WARNING]
-> This repo has been deprecated in place of [Mentor Guide Git Book]([https://github.com/HackYourFuture-CPH/hyf-project-template](https://github.com/HackYourFuture-CPH/MentorGuideGitBook)) which syncs to [mentor.hackyourfuture.dk](https://mentor.hackyourfuture.dk), so this repo is now archived.
+> This repo has been deprecated in place of [Mentor Guide Git Book](https://github.com/HackYourFuture-CPH/MentorGuideGitBook) which syncs to [mentor.hackyourfuture.dk](https://mentor.hackyourfuture.dk), so this repo is now archived.
 
 # Mentor's guide
 
